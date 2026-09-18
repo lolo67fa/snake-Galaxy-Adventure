@@ -1,0 +1,23 @@
+# Runtime data — generated while playing, not source
+score.txt
+stats.txt
+savegame.txt
+
+# PyInstaller build output
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
